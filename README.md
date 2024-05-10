@@ -2,8 +2,12 @@
 
 ## 📰 Detecção de Fake News em Vídeos com Gemini
 
+Nos últimos tempos está cada vez mais difícil saber o que é real e o que não é, e o que antigamente podia ser apenas brincadeiras, está se tornando um assunto debatido por muitos governos, especialistas e órgãos reguladores.
+
 Este repositório contém o código-fonte de uma aplicação feito no Colab que auxilia na identificação de fake news em vídeos. Utilizando o poder das APIs do Google Gemini, 
 a aplicação analisa o conteúdo dos vídeos e fornece informações valiosas para ajudar os usuários a tomarem decisões informadas sobre a veracidade do que estão assistindo, se deveriam compartilhar e fontes confiáveis sobre o assunto.
+
+Este projeto foi feito durante a imersão da Alura + Google como o projeto para concorrer às premiações divulgadas.
 
 ![Fake news image](https://www.tre-go.jus.br/imagens/imagens/fake-news-1/@@images/c29ab383-8a22-4517-a548-f994bdb84021.jpeg)
 
@@ -44,4 +48,4 @@ Este projeto está licenciado sob a Licença MIT.
 
 ## 🙏 Agradecimentos
 
-Alura, Google e FIAP pela imersão
+Agradeço à Alura, Google e FIAP pela fantástica imersão!
